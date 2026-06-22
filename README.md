@@ -148,6 +148,6 @@ Personal developer portfolio showcasing projects and skills. Deployed at [sachin
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,12&height=90&section=footer&fontSize=12&fontColor=6b5e4e&text=Sachin%20R.%20%C2%B7%20Mandya%2C%20India%20%C2%B7%20Open%20to%20Work%20%C2%B7%202026&fontAlignY=65&descSize=0"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,12&height=90&section=footer&fontSize=12&fontColor=6b5e4e&text=Sachin%20R.%20%C2%B7%20Mysore%2C%20India%20%C2%B7%20Open%20to%20Work%20%C2%B7%202026&fontAlignY=65&descSize=0"/>
 
 </div>
