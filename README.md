@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,12&height=140&section=header&text=Sachin%20R.&fontSize=46&fontColor=f0e6c8&fontAlignY=55&desc=Full-Stack%20Developer%20%C2%B7%20MCA%20Candidate%20%C2%B7%20Mandya%2C%20India&descAlignY=78&descSize=13&descColor=b0a090&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,12&height=140&section=header&text=Sachin%20R.&fontSize=46&fontColor=f0e6c8&fontAlignY=55&desc=Full-Stack%20Developer%20%C2%B7%20MCA%20Candidate%20%C2%B7%20Mysore%2C%20India&descAlignY=78&descSize=13&descColor=b0a090&animation=twinkling"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=13&duration=3000&pause=1400&color=C8A96E&center=true&vCenter=true&width=640&lines=Building+purposeful+web+applications+since+2022;Next.js+%C2%B7+TypeScript+%C2%B7+Python+%C2%B7+Solidity;AI-powered+platforms+%7C+Blockchain+verification;Open+to+internships+%26+graduate+roles+%E2%80%94+2026" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=13&duration=3000&pause=1400&color=C8A96E&center=true&vCenter=true&width=640&lines=Building+purposeful+web+applications+since+2022;Next.js+%C2%B7+TypeScript+%C2%B7+Python+%C2%B7+Solidity;AI-powered+platforms+%7C+Blockchain+verification;Open+to+Jobs+%26+graduate+roles+%E2%80%94+2026" alt="Typing SVG"/>
 
 </div>
 
