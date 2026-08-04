@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=13&duration=3000&pause=1400&color=C8A96E&center=true&vCenter=true&width=640&lines=Building+purposeful+web+applications+since+2022;Next.js+%C2%B7+TypeScript+%C2%B7+Python+%C2%B7+Solidity;AI-powered+platforms+%7C+Blockchain+verification;Open+to+Jobs+%26+graduate+roles+%E2%80%94+2026" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=13&duration=3000&pause=1400&color=C8A96E&center=true&vCenter=true&width=680&lines=Full-Stack+Developer+%7C+Next.js+%C2%B7+Python;Building+production-grade+web+platforms;AI-integrated+%26+blockchain-verified+systems;Open+to+Software+%26+Full+Stack+Developer+roles+%E2%80%94+2026" alt="Typing SVG"/>
 
 </div>
 
@@ -14,7 +14,7 @@
 
 &nbsp;
 
-![Status](https://img.shields.io/badge/%E2%97%8F%20Open%20to%20Work-C8A96E?style=flat-square&labelColor=1a1612&color=C8A96E&logoColor=white)&ensp;![Focus](https://img.shields.io/badge/Full--Stack%20%C2%B7%20Web3-8b7355?style=flat-square&labelColor=1a1612)&ensp;![Location](https://img.shields.io/badge/%F0%9F%87%AE%F0%9F%87%B3%20Mandya%2C%20India-6b5e4e?style=flat-square&labelColor=1a1612)
+![Status](https://img.shields.io/badge/%E2%97%8F%20Open%20to%20Work-C8A96E?style=flat-square&labelColor=1a1612&color=C8A96E&logoColor=white)&ensp;![Focus](https://img.shields.io/badge/Full--Stack%20Development-8b7355?style=flat-square&labelColor=1a1612)&ensp;![Location](https://img.shields.io/badge/%F0%9F%87%AE%F0%9F%87%B3%20Mysore%2C%20India-6b5e4e?style=flat-square&labelColor=1a1612)
 
 </div>
 
@@ -27,23 +27,24 @@
 ### 〔 01 〕&ensp;Profile
 
 ```
-Name     ·  Sachin R.
-Degree   ·  MCA — Master of Computer Applications
-Focus    ·  Full-Stack Engineering & Web3
-Status   ·  Actively seeking internships & roles
-Year     ·  2026 Graduate
+Name      ·  Sachin R.
+Degree    ·  MCA — Master of Computer Applications
+Location  ·  Mysore, Karnataka, India
+Focus     ·  Full-Stack Development (Next.js, Python)
+Status    ·  Actively seeking SDE / Full Stack roles
+Year      ·  2026 Graduate
 ```
 
 </td>
 <td width="50%" valign="top">
 
-### 〔 02 〕&ensp;Interests
+### 〔 02 〕&ensp;What I Build
 
 ```
-◈  Full-Stack Web Applications (Next.js + AI)
-◈  Blockchain · Smart Contracts · Web3
-◈  Cybersecurity & Linux Internals
-◈  Open Source · Building in Public
+◈  Full-Stack Web Applications — Next.js, TypeScript
+◈  Backend Services & APIs — Python, FastAPI, Node.js
+◈  AI-Integrated Platforms — Genkit, Gemini API
+◈  Blockchain-Verified Systems — Solidity, Web3
 ```
 
 </td>
@@ -59,34 +60,51 @@ Year     ·  2026 Graduate
 | Layer | Technologies |
 |:--|:--|
 | **Frontend** | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js) ![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61dafb) ![TypeScript](https://img.shields.io/badge/TypeScript-1a2a4a?style=flat-square&logo=typescript&logoColor=3b82f6) ![Tailwind CSS](https://img.shields.io/badge/Tailwind-0f2537?style=flat-square&logo=tailwindcss&logoColor=38bdf8) ![ShadCN](https://img.shields.io/badge/ShadCN_UI-18181b?style=flat-square&logo=shadcnui) |
-| **Backend & Cloud** | ![Python](https://img.shields.io/badge/Python-1a1f1a?style=flat-square&logo=python&logoColor=f7c948) ![Node.js](https://img.shields.io/badge/Node.js-0f2010?style=flat-square&logo=node.js&logoColor=4ade80) ![Firebase](https://img.shields.io/badge/Firebase-1a1200?style=flat-square&logo=firebase&logoColor=f59e0b) ![MongoDB](https://img.shields.io/badge/MongoDB-0f1f10?style=flat-square&logo=mongodb&logoColor=4ade80) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel) |
-| **Blockchain & AI** | ![Solidity](https://img.shields.io/badge/Solidity-1a1625?style=flat-square&logo=solidity&logoColor=818cf8) ![Web3](https://img.shields.io/badge/Web3.js-111827?style=flat-square&logo=web3.js&logoColor=f59e0b) ![Genkit](https://img.shields.io/badge/Genkit_AI-1a1612?style=flat-square&logo=google&logoColor=C8A96E) |
-| **Systems & Tools** | ![Linux](https://img.shields.io/badge/Linux-1a1a10?style=flat-square&logo=linux&logoColor=fbbf24) ![Git](https://img.shields.io/badge/Git-1a0f0f?style=flat-square&logo=git&logoColor=f87171) ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-1a1612?style=flat-square&logo=hackthebox&logoColor=C8A96E) |
+| **Backend** | ![Python](https://img.shields.io/badge/Python-1a1f1a?style=flat-square&logo=python&logoColor=f7c948) ![FastAPI](https://img.shields.io/badge/FastAPI-0d1f14?style=flat-square&logo=fastapi&logoColor=00c896) ![Node.js](https://img.shields.io/badge/Node.js-0f2010?style=flat-square&logo=node.js&logoColor=4ade80) |
+| **Database & Cloud** | ![MongoDB](https://img.shields.io/badge/MongoDB-0f1f10?style=flat-square&logo=mongodb&logoColor=4ade80) ![Firebase](https://img.shields.io/badge/Firebase-1a1200?style=flat-square&logo=firebase&logoColor=f59e0b) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel) |
+| **Blockchain & AI** | ![Solidity](https://img.shields.io/badge/Solidity-1a1625?style=flat-square&logo=solidity&logoColor=818cf8) ![Web3.js](https://img.shields.io/badge/Web3.js-111827?style=flat-square&logo=web3.js&logoColor=f59e0b) ![Genkit](https://img.shields.io/badge/Genkit_AI-1a1612?style=flat-square&logo=google&logoColor=C8A96E) |
+| **Tools & Systems** | ![Linux](https://img.shields.io/badge/Linux-1a1a10?style=flat-square&logo=linux&logoColor=fbbf24) ![Git](https://img.shields.io/badge/Git-1a0f0f?style=flat-square&logo=git&logoColor=f87171) |
 
 </div>
 
 ---
 
-### 〔 04 〕&ensp;Selected Projects
+### 〔 04 〕&ensp;Experience
+
+<table width="100%">
+<tr>
+<td width="100%" valign="top">
+
+**Full Stack Developer Intern — Growify India** &ensp;`Remote`
+
+Built a multi-tenant school management platform, working across the full stack from data modeling to UI delivery.
+
+</td>
+</tr>
+</table>
+
+---
+
+### 〔 05 〕&ensp;Selected Projects
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-**[Codsach Student Hub](https://github.com/Codsach/codsach-student-hub)**
+**[ProofChain](https://github.com/Codsach/proofchain)** &ensp;`MCA Capstone`
 
-Full-stack academic resource platform for university students — lab programs, notes, past papers, AI-assisted flows, and an admin CMS backed by GitHub. Deployed on Vercel with analytics. `137+ commits`.
+Blockchain-based digital forensic evidence platform with AI-powered tamper detection. Next.js + FastAPI backend, Polygon smart contracts for on-chain evidence anchoring, Gemini Vision for tamper scoring, and a full investigator → analyst verdict workflow with a public verification page.
 
-`Next.js` &ensp; `TypeScript` &ensp; `Genkit` &ensp; `Firebase`
+`Next.js` &ensp; `Python / FastAPI` &ensp; `Solidity` &ensp; `MongoDB` &ensp; `IPFS`
 
 </td>
 <td width="50%" valign="top">
 
-**[ProofChain](https://github.com/Codsach/proofchain)**
+**[Codsach Student Hub](https://github.com/Codsach/codsach-student-hub)**
 
-Blockchain document verification system using Ethereum smart contracts. Provides tamper-proof proof-of-existence for academic credentials and certificates.
+Full-stack academic resource platform for university students — lab programs, notes, past papers, AI-assisted flows, and a GitHub-backed admin CMS. Deployed on Vercel with an active user base. `137+ commits`.
 
-`Solidity` &ensp; `TypeScript` &ensp; `Web3`
+`Next.js` &ensp; `TypeScript` &ensp; `Genkit` &ensp; `Firebase`
 
 </td>
 </tr>
@@ -104,7 +122,7 @@ Kanban-style task management application with ShadCN UI components, full CRUD op
 
 **[Portfolio](https://github.com/Codsach/Portfolio)**
 
-Personal developer portfolio showcasing projects and skills. Deployed at [sachinr.vercel.app](https://sachinr.vercel.app).
+Personal developer portfolio showcasing projects and skills. Live at [sachinr.vercel.app](https://sachinr.vercel.app).
 
 `Next.js` &ensp; `TypeScript` &ensp; `Vercel`
 
@@ -114,7 +132,7 @@ Personal developer portfolio showcasing projects and skills. Deployed at [sachin
 
 ---
 
-### 〔 05 〕&ensp;GitHub Activity
+### 〔 06 〕&ensp;GitHub Activity
 
 <div align="center">
 
@@ -132,7 +150,7 @@ Personal developer portfolio showcasing projects and skills. Deployed at [sachin
 
 ---
 
-### 〔 06 〕&ensp;Connect
+### 〔 07 〕&ensp;Connect
 
 <div align="center">
 
