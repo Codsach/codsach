@@ -111,22 +111,7 @@ Full-stack academic resource platform for university students — lab programs, 
 <tr>
 <td width="50%" valign="top">
 
-**[TaskManager](https://github.com/Codsach/TaskManager-)**
 
-Kanban-style task management application with ShadCN UI components, full CRUD operations, and persistent MongoDB storage.
-
-`Next.js` &ensp; `MongoDB` &ensp; `ShadCN UI`
-
-</td>
-<td width="50%" valign="top">
-
-**[Portfolio](https://github.com/Codsach/Portfolio)**
-
-Personal developer portfolio showcasing projects and skills. Live at [sachinr.vercel.app](https://sachinr.vercel.app).
-
-`Next.js` &ensp; `TypeScript` &ensp; `Vercel`
-
-</td>
 </tr>
 </table>
 
